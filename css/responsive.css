@@ -1,0 +1,1420 @@
+/* extra small device responsive start */
+@media (min-width: 320px) and (max-width: 575.98px) {
+    /* common css  start*/
+
+    .common_btn {
+        font-size: 15px;
+
+    }
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    .title_text {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    .title_text_two {
+        font-size: 25px;
+        line-height: 20px;
+        text-align: left;
+    }
+
+    .common_button-family {
+        padding: 20px 0px 30px 20px;
+    }
+
+    /* common css end */
+
+
+    /* menu part start */
+    #main_menu .navbar-collapse {
+        background-color: #d50a51;
+        margin-top: 20px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+
+    #main_menu ul li a:hover {
+        color: #fff;
+    }
+
+    #main_menu ul li a .login_btn {
+        background-color: transparent;
+        border: 1px solid #fff;
+        color: #fff;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    #main_menu .mb-2 {
+        margin-bottom: -0.5rem !important;
+    }
+
+    #main_menu ul li a .login_btn:hover {
+        color: #fff;
+        background-color: gray;
+    }
+
+    #main_menu ul li img {
+        display: none;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+    #banner .banner_img_one {
+        display: none;
+    }
+
+
+    #banner .banner_img_two {
+        display: block !important;
+    }
+
+    #banner .text {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    #banner .text h2 {
+        font-size: 50px;
+    }
+
+    #banner .text h1 {
+        font-size: 50px;
+        line-height: 24px;
+    }
+
+    #banner .text p {
+        font-size: 13px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /* banner part end */
+
+
+    /* history part start */
+
+    #history {
+        padding-top: 50px;
+    }
+
+    #history .history_img_1 {
+        display: none;
+    }
+
+    #history .history_img_2 {
+        display: block !important;
+    }
+
+    #history .history_text h6 span img {
+        left: 0%;
+
+    }
+
+
+    #history .history_text h6 {
+        padding-left: 30px;
+        font-size: 15px;
+    }
+
+    #history .history_text h2 {
+        padding-left: 30px;
+        font-size: 25px;
+        line-height: 20px;
+    }
+
+    #history .history_text .frist_pera {
+        padding: 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+
+    }
+
+    #history .history_text .secound_pera {
+        padding: 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+
+    }
+
+    /* history part end */
+
+    /* gift proposal part start */
+    #gift_proposal {
+        position: relative;
+    }
+
+    #gift_proposal .gift_information {
+        padding-top: 50px;
+    }
+
+    #gift_proposal .gift_information .common_pera {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    #gift_proposal .gift_information .common_pera_two {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    #gift_proposal .gift_box_img-1 {
+        display: none !important;
+    }
+
+    #gift_proposal .gift_box_img-2 {
+        display: none;
+    }
+
+
+    /* gift proposal part end */
+
+    /* cupol  part start */
+
+    #cuple_ticket {
+        padding-top: 50px;
+    }
+
+    #cuple_ticket .cuple_img_1 {
+        display: none;
+    }
+
+    #cuple_ticket .cuple_img_2 {
+        display: block !important;
+    }
+
+    #cuple_ticket h6 {
+        text-align: left;
+        padding-top: 10px;
+        padding-left: 30px;
+
+    }
+
+    #cuple_ticket .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+
+    #cuple_ticket .title_text span img {
+        left: 0%;
+        transform: rotate(272deg);
+        -webkit-transform: rotate(272deg);
+        -moz-transform: rotate(272deg);
+        -ms-transform: rotate(272deg);
+        -o-transform: rotate(272deg);
+    }
+
+    #cuple_ticket .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text .common_pera_two {
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text {
+        text-align: left;
+    }
+
+    #cuple_ticket .title_text .common_button-family {
+        justify-content: start;
+    }
+
+    #cuple_ticket .common_btn {
+        padding: 5px 15px;
+
+    }
+
+
+    /* cupol  part end */
+
+
+    /* offer_services  part start */
+
+
+    #offer_services {
+        margin: 0;
+        padding-top: 30px;
+    }
+
+
+    #offer_services .valeintain_offer .common_pera {
+        padding: 20px 0px 0px 0px;
+    }
+
+    #offer_services .valeintain_offer .common_pera_two {
+        padding-top: 20px;
+    }
+
+    #offer_services .valeintain_offer .title_text {
+        padding: 30px 0px 0px 30px;
+    }
+
+    #offer_services .valeintain_offer .title_text span {
+        display: block;
+    }
+
+    #offer_services .offer_item {
+        margin-top: 20px;
+
+    }
+
+    #offer_services .offer_item .title_text {
+        font-size: 20px;
+    }
+
+    #offer_services .offer_item .title_text_2 {
+        font-size: 20px;
+    }
+
+    /* offer_services  part end */
+
+    /* capture  part start */
+    #capture {
+        padding-top: 50px;
+    }
+
+    #capture .title_info_1 {
+        display: block !important;
+    }
+
+    #capture .title_info_2 {
+        display: none;
+    }
+
+
+
+    #capture .title_text span img {
+        position: absolute;
+        top: -37%;
+        left: 0%;
+        transform: rotate(269deg);
+        -webkit-transform: rotate(269deg);
+        -moz-transform: rotate(269deg);
+        -ms-transform: rotate(269deg);
+        -o-transform: rotate(269deg);
+    }
+
+    #capture .title_text {
+        text-align: left;
+        padding-left: 30px;
+
+    }
+
+    #capture .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+    #capture .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+    }
+
+    #capture .common_btn {
+        padding: 5px 10px;
+    }
+
+
+    /* capture  part end */
+
+    /* count_down part start */
+
+    #count_dwon {
+
+        margin-top: 0px;
+        height: 200px;
+
+    }
+
+    #count_dwon .count_down .count_item h3 {
+        margin-top: 90px;
+        font-size: 25px;
+        line-height: 15px;
+    }
+
+
+    #count_dwon .count_down .count_item h2 {
+        font-size: 25px;
+        line-height: 26px;
+
+    }
+
+    #count_dwon .count_down .count_item img {
+        margin-top: 20px;
+    }
+
+    /* count_down part end */
+
+    /* testimonial part start */
+
+    #testimonial {
+        margin-top: 50px;
+        justify-content: center;
+    }
+
+    #testimonial .main_item .item {
+        padding: 20px 20px;
+
+    }
+
+    #testimonial .main_item .testi_item_shape {
+        display: none;
+    }
+
+    #testimonial .main_item .testi_item_shape_2 {
+        display: none;
+    }
+
+    #testimonial .prev {
+        top: 100%;
+        left: 30%;
+
+    }
+
+    #testimonial .next {
+        top: 100%;
+        right: 30%;
+
+    }
+
+    /* testimonial part end */
+
+
+    /* footer part start */
+
+    #footer .news_letter .news_title h1 {
+        padding-top: 0px;
+
+
+    }
+
+    #footer .news_letter .news_title h1 {
+        font-size: 20px;
+        line-height: 10px;
+        display: inline-block;
+
+    }
+
+    #footer .news_letter .news_title h1 .icon {
+        font-size: 30px;
+        line-height: 15;
+
+    }
+
+    #footer .news_letter {
+        flex-wrap: wrap !important;
+        border-radius: 0%;
+        -webkit-border-radius: 0%;
+        -moz-border-radius: 0%;
+        -ms-border-radius: 0%;
+        -o-border-radius: 0%;
+    }
+
+    #footer .news_letter .news_title h1 span p {
+        font-size: 10px;
+        line-height: 13px;
+        padding-left: 50px;
+
+    }
+
+    footer .main_field {
+        flex-wrap: wrap;
+    }
+
+    #footer .news_letter  .news_input form input {
+        padding: 6px 17px;
+    }
+    #footer .news_letter .news_input .icon {
+        padding: 10px 108px !important;
+        margin-top: 75px;
+        top: 0;
+        left: 40px;
+    }
+    #footer .news_letter .news_input {
+        padding-bottom: 50px;
+    }
+
+    #footer .footer_logo {
+        margin-top: -60px;
+    }
+
+    #footer .footer_info {
+
+        flex-wrap: wrap;
+    }
+
+    #footer .footer_info .info_item {
+        margin-bottom: 25px;
+    }
+
+    #footer .social_link {
+        margin-top: 10px;
+    }
+
+    #footer .social_link ul li {
+        padding: 5px;
+    }
+
+    #footer .social_link ul li a .icon {
+        font-size: 15px;
+        line-height: 15px;
+
+    }
+
+    .copy_right {
+        font-size: 13px;
+
+    }
+
+    /*footerpartend*/
+    ;
+
+
+    /* extra small device responsive end */
+
+}
+
+
+/* small device responsive start */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .common_btn {
+        font-size: 15px;
+
+    }
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    .title_text {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    .title_text_two {
+        font-size: 25px;
+        line-height: 20px;
+        text-align: left;
+    }
+
+    .common_button-family {
+        padding: 20px 0px 30px 20px;
+    }
+
+    /* common css end */
+
+
+    /* menu part start */
+    #main_menu .navbar-collapse {
+        background-color: #d50a51;
+        margin-top: 20px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+
+    #main_menu ul li a:hover {
+        color: #fff;
+    }
+
+    #main_menu ul li a .login_btn {
+        background-color: transparent;
+        border: 1px solid #fff;
+        color: #fff;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    #main_menu .mb-2 {
+        margin-bottom: -0.5rem !important;
+    }
+
+    #main_menu ul li a .login_btn:hover {
+        color: #fff;
+        background-color: gray;
+    }
+
+    #main_menu ul li img {
+        display: none;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+    #banner .banner_img_one {
+        display: none;
+    }
+
+
+    #banner .banner_img_two {
+        display: block !important;
+    }
+
+    #banner .text {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    #banner .text h2 {
+        font-size: 50px;
+    }
+
+    #banner .text h1 {
+        font-size: 50px;
+        line-height: 24px;
+    }
+
+    #banner .text p {
+        font-size: 13px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /* banner part end */
+
+
+    /* history part start */
+
+    #history {
+        padding-top: 50px;
+    }
+
+    #history .history_img_1 {
+        display: none;
+    }
+
+    #history .history_img_2 {
+        display: block !important;
+    }
+
+    #history .history_text h6 span img {
+        left: 0%;
+
+    }
+
+
+    #history .history_text h6 {
+        padding-left: 30px;
+        font-size: 15px;
+    }
+
+    #history .history_text h2 {
+        padding-left: 30px;
+        font-size: 25px;
+        line-height: 20px;
+    }
+
+    #history .history_text .frist_pera {
+        padding: 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+
+    }
+
+    #history .history_text .secound_pera {
+        padding: 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+
+    }
+
+    /* history part end */
+
+    /* gift proposal part start */
+    #gift_proposal {
+        position: relative;
+    }
+
+    #gift_proposal .gift_information {
+        padding-top: 50px;
+    }
+
+    #gift_proposal .gift_information .common_pera {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    #gift_proposal .gift_information .common_pera_two {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    #gift_proposal .gift_box_img-1 {
+        display: none !important;
+    }
+
+    #gift_proposal .gift_box_img-2 {
+        display: none;
+    }
+
+
+    /* gift proposal part end */
+
+    /* cupol  part start */
+
+    #cuple_ticket {
+        padding-top: 50px;
+    }
+
+    #cuple_ticket .cuple_img_1 {
+        display: none;
+    }
+
+    #cuple_ticket .cuple_img_2 {
+        display: block !important;
+    }
+
+    #cuple_ticket h6 {
+        text-align: left;
+        padding-top: 10px;
+        padding-left: 30px;
+
+    }
+
+    #cuple_ticket .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+
+    #cuple_ticket .title_text span img {
+        left: 0%;
+        transform: rotate(272deg);
+        -webkit-transform: rotate(272deg);
+        -moz-transform: rotate(272deg);
+        -ms-transform: rotate(272deg);
+        -o-transform: rotate(272deg);
+    }
+
+    #cuple_ticket .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text .common_pera_two {
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text {
+        text-align: left;
+    }
+
+    #cuple_ticket .title_text .common_button-family {
+        justify-content: start;
+    }
+
+    #cuple_ticket .common_btn {
+        padding: 5px 15px;
+
+    }
+
+
+    /* cupol  part end */
+
+
+    /* offer_services  part start */
+
+
+    #offer_services {
+        margin: 0;
+        padding-top: 30px;
+    }
+
+
+    #offer_services .valeintain_offer .common_pera {
+        padding: 20px 0px 0px 0px;
+    }
+
+    #offer_services .valeintain_offer .common_pera_two {
+        padding-top: 20px;
+    }
+
+    #offer_services .valeintain_offer .title_text {
+        padding: 30px 0px 0px 30px;
+    }
+
+    #offer_services .valeintain_offer .title_text span {
+        display: block;
+    }
+
+    #offer_services .offer_item {
+        margin-top: 20px;
+
+    }
+
+    #offer_services .offer_item .title_text {
+        font-size: 20px;
+    }
+
+    #offer_services .offer_item .title_text_2 {
+        font-size: 20px;
+    }
+
+    /* offer_services  part end */
+
+    /* capture  part start */
+    #capture {
+        padding-top: 50px;
+    }
+
+    #capture .title_info_1 {
+        display: block !important;
+    }
+
+    #capture .title_info_2 {
+        display: none;
+    }
+
+
+
+    #capture .title_text span img {
+        position: absolute;
+        top: -37%;
+        left: 0%;
+        transform: rotate(269deg);
+        -webkit-transform: rotate(269deg);
+        -moz-transform: rotate(269deg);
+        -ms-transform: rotate(269deg);
+        -o-transform: rotate(269deg);
+    }
+
+    #capture .title_text {
+        text-align: left;
+        padding-left: 30px;
+
+    }
+
+    #capture .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+    #capture .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+    }
+
+    #capture .common_btn {
+        padding: 5px 10px;
+    }
+
+
+    /* capture  part end */
+
+    /* count_down part start */
+
+    #count_dwon {
+
+        margin-top: 0px;
+        height: 200px;
+
+    }
+
+    #count_dwon .count_down .count_item h3 {
+        margin-top: 90px;
+        font-size: 25px;
+        line-height: 15px;
+    }
+
+
+    #count_dwon .count_down .count_item h2 {
+        font-size: 25px;
+        line-height: 26px;
+
+    }
+
+    #count_dwon .count_down .count_item img {
+        margin-top: 20px;
+    }
+
+    /* count_down part end */
+
+    /* testimonial part start */
+
+    #testimonial {
+        margin-top: 50px;
+        justify-content: center;
+    }
+
+    #testimonial .main_item .item {
+        padding: 20px 20px;
+
+    }
+
+    #testimonial .main_item .testi_item_shape {
+        display: none;
+    }
+
+    #testimonial .main_item .testi_item_shape_2 {
+        display: none;
+    }
+
+    #testimonial .prev {
+        top: 100%;
+        left: 30%;
+
+    }
+
+    #testimonial .next {
+        top: 100%;
+        right: 30%;
+
+    }
+
+    /* testimonial part end */
+
+
+    /* footer part start */
+
+    #footer .news_letter .news_title h1 {
+        padding-top: 0px;
+
+
+    }
+
+    #footer .news_letter .news_title h1 {
+        font-size: 20px;
+        line-height: 10px;
+        display: inline-block;
+
+    }
+
+    #footer .news_letter .news_title h1 .icon {
+        font-size: 30px;
+        line-height: 15;
+
+    }
+
+    #footer .news_letter {
+        flex-wrap: wrap !important;
+        border-radius: 0%;
+        -webkit-border-radius: 0%;
+        -moz-border-radius: 0%;
+        -ms-border-radius: 0%;
+        -o-border-radius: 0%;
+    }
+
+    #footer .news_letter .news_title h1 span p {
+        font-size: 10px;
+        line-height: 13px;
+        padding-left: 50px;
+
+    }
+
+    footer .main_field {
+        flex-wrap: wrap;
+    }
+
+    #footer .news_letter .news_input .icon {
+	top: 74px;
+	left: 39px;
+	padding: 10px 98px;
+}
+
+    #footer .news_letter .news_input {
+        padding-bottom: 50px;
+    }
+
+    #footer .footer_logo {
+        margin-top: -60px;
+    }
+
+    #footer .footer_info {
+
+        flex-wrap: wrap;
+    }
+
+    #footer .footer_info .info_item {
+        margin-bottom: 25px;
+    }
+
+    #footer .social_link {
+        margin-top: 10px;
+    }
+
+    #footer .social_link ul li {
+        padding: 5px;
+    }
+
+    #footer .social_link ul li a .icon {
+        font-size: 15px;
+        line-height: 15px;
+
+    }
+
+    .copy_right {
+        font-size: 13px;
+
+    }
+
+    /*footerpartend*/
+    ;
+
+}
+
+
+/* small device responsive end */
+
+
+/* meduim  device responsive start */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* common css  start*/
+
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+
+
+    /* common css end */
+
+    /* menu part start */
+    #main_menu .navbar-collapse {
+        background-color: #d50a51;
+        margin-top: 20px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+
+    #main_menu ul li a:hover {
+        color: #fff;
+    }
+
+    #main_menu ul li a .login_btn {
+        background-color: transparent;
+        border: 1px solid #fff;
+        color: #fff;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    #main_menu .mb-2 {
+        margin-bottom: -0.5rem !important;
+    }
+
+    #main_menu ul li a .login_btn:hover {
+        color: #fff;
+        background-color: gray;
+    }
+
+    #main_menu ul li img {
+        display: none;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+
+    #banner {
+        padding: 37px 0 16px 0px !important;
+    }
+
+    #banner .banner_img_one {
+        display: none;
+    }
+
+
+    #banner .banner_img_two {
+        display: block !important;
+    }
+
+    #banner .text p {
+        padding-bottom: 16px;
+    }
+
+
+    /* banner part end */
+
+    /* history part start */
+
+    #history .history_text h6 span img {
+        top: -90%;
+        left: -2%;
+    }
+
+    #history .history_text h6 {
+        padding-left: 25px;
+    }
+
+    #history .history_text h2 {
+        padding-left: 25px;
+    }
+
+    /* gift box part start */
+    #gift_proposal .gift_box_img-1 {
+        display: none !important;
+    }
+
+    #gift_proposal .gift_box_img-2 {
+        display: none;
+    }
+
+    /* gift box part end */
+
+    /* cupole ticket part start */
+    #cuple_ticket {
+        padding-top: 50px;
+    }
+
+    #cuple_ticket .cuple_img_1 {
+        display: none;
+    }
+
+    #cuple_ticket .cuple_img_2 {
+        display: block !important;
+    }
+
+    #cuple_ticket h6 {
+        text-align: left;
+        padding-top: 10px;
+        padding-left: 30px;
+
+    }
+
+    #cuple_ticket .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+
+    #cuple_ticket .title_text span img {
+        left: 0%;
+        transform: rotate(272deg);
+        -webkit-transform: rotate(272deg);
+        -moz-transform: rotate(272deg);
+        -ms-transform: rotate(272deg);
+        -o-transform: rotate(272deg);
+    }
+
+    #cuple_ticket .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text .common_pera_two {
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    #cuple_ticket .title_text {
+        text-align: left;
+    }
+
+    #cuple_ticket .title_text .common_button-family {
+        justify-content: start;
+    }
+
+    #cuple_ticket .common_btn {
+        padding: 5px 15px;
+
+    }
+
+    /* cupole ticket part end */
+
+
+    /* offer part start */
+    #offer_services .valeintain_offer .title_text span {
+        display: flex;
+    }
+
+    #offer_services {
+        margin-top: 15px;
+
+    }
+
+    #offer_services .valeintain_offer .common_pera {
+        padding: 0px 0px 15px 0px;
+    }
+
+    /* offer part end */
+
+
+
+    /* capture part start */
+
+    #capture {
+        padding-top: 50px;
+    }
+
+    #capture .title_info_1 {
+        display: block !important;
+    }
+
+    #capture .title_info_2 {
+        display: none;
+    }
+
+
+
+    #capture .title_text span img {
+        position: absolute;
+        top: -37%;
+        left: 0%;
+        transform: rotate(269deg);
+        -webkit-transform: rotate(269deg);
+        -moz-transform: rotate(269deg);
+        -ms-transform: rotate(269deg);
+        -o-transform: rotate(269deg);
+    }
+
+    #capture .title_text {
+        text-align: left;
+        padding-left: 30px;
+
+    }
+
+    #capture .title_text_two {
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+
+    }
+
+    #capture .title_text .common_pera {
+        padding: 20px 0px 20px 0px;
+    }
+
+    #capture .common_btn {
+        padding: 5px 10px;
+    }
+
+
+
+    /* capture part end */
+
+
+    /* footer part start */
+    #footer .news_letter {
+        flex-wrap: wrap;
+    }
+
+    #footer .news_letter .news_title h1 {
+        font-size: 30px;
+    }
+
+    #footer .news_letter .news_title h1 .icon {
+        font-size: 33px;
+    }
+
+
+
+    #footer .news_letter {
+        padding-bottom: 16px;
+    }
+
+    #footer .footer_info {
+
+        flex-wrap: wrap;
+    }
+
+    #footer .footer_info .info_item {
+        margin-bottom: 25px;
+    }
+
+    #footer .footer_info .info_item .common_pera {
+        width: 350px;
+    }
+
+    #footer .social_link {
+        margin-top: 10px;
+    }
+
+    #footer .social_link ul li {
+        padding: 5px;
+    }
+
+    #footer .social_link ul li a .icon {
+        font-size: 15px;
+        line-height: 15px;
+
+    }
+
+    .copy_right {
+        font-size: 13px;
+
+    }
+
+    /* footer part end */
+
+    /* meduim  device responsive end */
+
+
+}
+
+
+/* larg device start */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* common css start */
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    /* common css end */
+
+    /* banner part start */
+    #banner {
+        padding-bottom: 60px;
+    }
+
+    /* banner part end */
+
+
+    /* gift box part start */
+
+    #gift_proposal .gift_box_img {
+        position: relative;
+        width: 120%;
+    }
+
+    #gift_proposal .gift_information .common_pera {
+        padding-top: 10px;
+    }
+
+    #gift_proposal .gift_information .common_pera_two {
+        padding-top: 20px;
+
+    }
+
+    #gift_proposal .gift_box_img {
+        width: 120%;
+    }
+
+    #gift_proposal .gift_box_img .gift_box {
+        top: 13px;
+    }
+
+    /* cuple_ticket part start */
+    #cuple_ticket .title_text span img {
+        top: -65%;
+        right: -4%;
+    }
+
+    /* cuple ticket part end */
+
+
+    /* capture part start */
+
+    #capture .title_text .common_button-family .common_btn {
+        font-size: 17px;
+
+
+
+
+    }
+
+    /* capture part end */
+
+    /* count down part start */
+    #count_dwon .count_down .count_item h3 {
+        font-size: 35px;
+
+    }
+
+    #count_dwon .count_down .count_item h2 {
+        font-size: 35px;
+
+    }
+
+
+    /* count down part end */
+
+
+    /* slider part start */
+
+    #testimonial .prev {
+        left: 0%;
+    }
+
+    #testimonial .next {
+        right: -2%;
+    }
+
+    /* slider part end. */
+
+
+    /* footer part start */
+
+    #footer .news_letter .news_title h1 {
+        font-size: 34px;
+    }
+
+}
+
+/* larg device start */
+
+
+/* xtra larg device start */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* common css strat */
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    /* common css end */
+    /* slider part start */
+
+    #testimonial .prev {
+        left: 0%;
+    }
+
+    #testimonial .next {
+        right: -2%;
+    }
+
+}
+
+
+
+/* xtra large device end */
